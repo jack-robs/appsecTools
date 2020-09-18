@@ -1,0 +1,15 @@
+/apis/ang_hierarchy_locations 
+/apis/ResourceService 
+/apis/product_props 
+/configs/V2
+/customers/sampledata
+/customers/sampledata/getCustomersById
+/customers/sampledata/getCustomersById/{query}
+/customers/sampledata/{query}
+/getMMGTax
+/healthcheck 
+/json/locations 
+/json/locations/mine 
+/languages
+/oauthUrls 
+/permissions 

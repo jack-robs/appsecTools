@@ -1,0 +1,3 @@
+/test/endpoint
+/test2/endpoint
+//badEndpoint
